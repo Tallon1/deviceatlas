@@ -14,14 +14,14 @@ This application fetches device information using the DeviceAtlas API based on H
 
 ## Setup Instructions
 
-## Backend Setup
+### Backend Setup
 
 1. Navigate to `backend` directory via terminal.
 2. Install dependencies:
 3. Create `.env` file and add your DeviceAtlas license key:
 4. Start the server: "node server.js"
 
-## Frontend Setup
+### Frontend Setup
 
 1. Navigate to `frontend` directory via terminal.
 2. Install dependencies:
@@ -32,7 +32,7 @@ This application fetches device information using the DeviceAtlas API based on H
 1. Send a POST request to `/fetch-device-data` with User-Agent strings to populate the database.
 2. Visit the frontend at `http://localhost:5173` to view tablet devices.
 
-## Notes
+### Notes
 
 Ensure both backend & frontend servers are running simultaneously.
 
