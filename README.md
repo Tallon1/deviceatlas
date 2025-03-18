@@ -35,3 +35,6 @@ This application fetches device information using the DeviceAtlas API based on H
 ## Notes
 
 Ensure both backend & frontend servers are running simultaneously.
+
+## UI Preview
+![image](https://github.com/user-attachments/assets/8c00ffeb-d815-4aed-a9bf-7bd7d4fdccf2)
