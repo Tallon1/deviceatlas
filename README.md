@@ -3,6 +3,13 @@
 ## Overview
 
 This application fetches device information using the DeviceAtlas API based on HTTP User-Agent strings, stores the data in a SQLite database, & provides a frontend to display tablet devices sorted by OS version.
+Built to meet the following criteria:
+- Iterates over the User-Agents provided & makes a call to the DeviceAtlas web service for each.
+- Stores the response data in a normalised form in a database.
+- Provides a frontend to view the stored data filtered to show tablet devices only & sorted by operating system version (osVersion).
+
+## UI Preview
+![chrome_FSdPX3VhpB](https://github.com/user-attachments/assets/1a717dd3-dcf6-4b16-92fe-7a61e29495a5)
 
 ## Technologies Used
 
@@ -36,5 +43,3 @@ This application fetches device information using the DeviceAtlas API based on H
 
 Ensure both backend & frontend servers are running simultaneously.
 
-## UI Preview
-![image](https://github.com/user-attachments/assets/8c00ffeb-d815-4aed-a9bf-7bd7d4fdccf2)
