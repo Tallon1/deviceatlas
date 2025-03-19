@@ -9,7 +9,7 @@ Built to meet the following criteria:
 - Provides a frontend to view the stored data filtered to show tablet devices only & sorted by operating system version (osVersion).
 
 ## UI Preview
-![chrome_FSdPX3VhpB](https://github.com/user-attachments/assets/1a717dd3-dcf6-4b16-92fe-7a61e29495a5)
+![chrome_CFCItLy798](https://github.com/user-attachments/assets/0498f580-fe62-40cf-b627-8c8ce1c93f5e)
 
 ## Technologies Used
 
